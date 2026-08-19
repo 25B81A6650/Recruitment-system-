@@ -1,2 +1,6 @@
-# Recruitment-system-
-A Recruitment System is a software application designed to automate and manage the entire hiring process of an organization. It helps companies efficiently attract, screen, evaluate, and hire candidates while reducing manual effort and improving recruitment accuracy.
+Recruitment system
+This project is created for academic demonstration purpose only
+Software Configuration Management using GitHub.
+Student Name:Thudi sathwik tej
+Roll Number:25B81A6650
+Class:CSM-A
